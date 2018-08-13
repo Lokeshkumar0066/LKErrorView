@@ -1,6 +1,6 @@
 # LKErrorView
 
-Most applications show lists of content (data sets), which many turn out to be empty at one point, specially for new users with blank accounts. Empty screens create confusion by not being clear about what's going on, if there is an error/bug or if the user is supposed to do something within your app to be able to consume the content.
+Most applications show lists of content (data sets), which may turn out to be empty at one point, specially for new users with blank accounts. Empty screens create confusion by not being clear about what's going on, if there is an error/bug or if the user is supposed to do something within your app to be able to consume the content.
 
 
 ![error](https://user-images.githubusercontent.com/26429027/44015985-be57eb48-9ef0-11e8-8e35-5d2980a6ce11.gif)
