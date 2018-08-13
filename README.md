@@ -38,7 +38,7 @@ You can directly add the integrate into your working project.
 
 
 Now, you can show ToastView with status message:
- BackgroundView *errorView = [BackgroundView initlization];
+ BackgroundView *errorView = [BackgroundView initlization];                                                             
 [errorView initWithDefaultNibAndDelegate:self message:@"Please check your internet connection." btnOK:@"Retry" errorEmojiImage:@"error-icon.png" vc:self];
 
 
